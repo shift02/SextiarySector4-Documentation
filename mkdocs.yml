@@ -9,7 +9,7 @@ edit_uri: ''
 
 theme:
   name: 'material'
-  locale: ja
+  language: ja
   features:
     - navigation.tabs
     - toc.integrate
