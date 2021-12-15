@@ -1,0 +1,50 @@
+# 全体の設定
+site_name: SextiarySector4
+site_author: 'シフト02'
+language: ja
+
+repo_url: https://github.com/shift02/SextiarySector4
+repo_name: SextiarySector4
+edit_uri: ''
+
+theme:
+  name: 'material'
+  locale: ja
+  features:
+    - navigation.tabs
+    - toc.integrate
+  logo: img/orichalcum_gear_logo.png
+  favicon: img/orichalcum_gear_logo.png
+
+
+extra:
+  generator: false
+
+
+docs_dir: 'raw-docs'
+site_dir: 'docs'
+
+extra_css:
+  - stylesheets/home.css
+
+copyright: 'Copyright (c) shift02 2021'
+
+# Navigation
+nav:
+  - ホーム: index.md
+  - 要素一覧:
+    - 概要: catalog/index.md
+    - コア:
+      - 概要: catalog/core/index.md
+      - 葉っぱ: catalog/core/leaf.md
+      - 葉っぱブロック: catalog/core/leaf_block.md
+      - 葉っぱベッド: catalog/core/leaf_bed.md
+  - ダウンロード: download.md
+  - 更新履歴:
+    - 一覧: changelog/index.md
+    - 0.0.1: changelog/0.0.1.md
+
+
+# 拡張機能
+markdown_extensions:
+  - admonition
