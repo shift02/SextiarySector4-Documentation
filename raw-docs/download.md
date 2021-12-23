@@ -11,4 +11,4 @@
 
 #### ダウンロード先
 
-Github: 現在準備中
+Github: https://github.com/shift02/SextiarySector4/releases
