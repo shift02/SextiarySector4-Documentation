@@ -6,9 +6,9 @@
 
 | 要求      | バージョン                          |
 | ----------- | ------------------------------------ |
-| `Minecraft`       | 1.8.1+  |
-| `Forge`       | 1.18.1-39.0.0+ |
+| `Minecraft`       | 1.19.2+  |
+| `Forge`       | 1.19.2-43.1.1+ |
 
 #### ダウンロード先
 
-Github: https://github.com/shift02/SextiarySector4/releases
+Github: [https://github.com/shift02/SextiarySector4/releases](https://github.com/shift02/SextiarySector4/releases)
